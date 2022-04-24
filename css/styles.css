@@ -1,0 +1,23 @@
+body {
+  background-color: lightslategrey;
+}
+div {
+  line-height: 2.0em;
+  background: lightgoldenrodyellow;
+  border-style: solid;
+}
+.name-head {
+  border: 5px solid black;
+  text-align: center;
+  font-size: 36px;
+}
+.headers {
+  border: none;
+  border-bottom: 2px solid grey;
+  text-align: left;
+  font-size: 14px;
+}
+.favorite {
+  border: none;
+  font-size: 32px;;
+}
